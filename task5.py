@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 listOfChars = []
 numberCharsInLine = 0
 line = ""

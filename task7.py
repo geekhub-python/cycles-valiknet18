@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 n = int(input("Введите количество дней "))
 sumTrain = 10
 sumTrainN = 10
